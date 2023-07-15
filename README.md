@@ -89,7 +89,7 @@ Open source licensed under the MIT license (see _LICENSE_ file for details).
 Requires Python 3 or higher
 
 ## Example
-Running from terminal
+Running from terminal:
 locust -f ./tests/locust_example.py --headless -u 2000  -r 5  -t 60m --html report.html
 
 does:
