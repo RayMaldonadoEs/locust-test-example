@@ -1,4 +1,6 @@
-# Example taken from https://pflb.us/blog/load-testing-using-locust/
+# Locust Example taken from
+ https://pflb.us/blog/load-testing-using-locust/ and
+ https://docs.locust.io/en/stable/writing-a-locustfile.html
 
 Requires Python 3 or higher
 
